@@ -22,10 +22,5 @@ export default navbar([
         children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
       },
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  }
 ]);
