@@ -9,4 +9,12 @@ export default sidebar({
       collapsible: true,
     },
   ],
+  "/REX/": [
+    {
+      text: "REX",
+      icon: "laptop-code",
+      children: "structure",
+      collapsible: true,
+    },
+  ],
 });

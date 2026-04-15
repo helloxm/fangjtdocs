@@ -6,4 +6,9 @@ export default navbar([
     icon: "lightbulb",
     link: "/PLC/",
   },
+  {
+    text: "REX",
+    icon: "lightbulb",
+    link: "/REX/",
+  },
 ]);
